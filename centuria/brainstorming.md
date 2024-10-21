@@ -3,6 +3,7 @@
 ## Personnages
 
 - Nectomus, dit Nexus, le héros réticent
+   * Ne supporte pas l'inefficacité
    * Dilemme moral: il veut oeuvrer pour le bien de tous, mais ceci génère des conflits et la meilleure manière d’aborder un problème n’est jamais claire
    * Dilemme moral par rapport à l'utilisation de la magie?
 - Nain ingénieur, engin pour se mouvoir comme si les pieds amputés et faire semblant d’être humain
