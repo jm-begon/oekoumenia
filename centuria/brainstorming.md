@@ -10,6 +10,7 @@
 - Elf précepteur affranchit (2 oreilles coupées) → qu’est-ce que vous voulez savoir? Cliffhanger
 - Pretorius, l’incorruptible: chef de la garde la ville
 - Asmodius: ami de Nexus, général rival
+- XXx: cléopatricienne, manipule Asmodius
 
 
 ## Scènes
