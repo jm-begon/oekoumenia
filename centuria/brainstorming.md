@@ -7,6 +7,7 @@
    * Dilemme moral: il veut oeuvrer pour le bien de tous, mais ceci génère des conflits et la meilleure manière d’aborder un problème n’est jamais claire
    * Dilemme moral par rapport à l'utilisation de la magie?
    * Tellement perfectionniste, qu'il n'arrive même pas à râter une tâche
+   * Construit des routes
 - Nain ingénieur, engin pour se mouvoir comme si les pieds amputés et faire semblant d’être humain
 - Elf précepteur affranchit (2 oreilles coupées) → qu’est-ce que vous voulez savoir? Cliffhanger
 - Pretorius, l’incorruptible: chef de la garde la ville
