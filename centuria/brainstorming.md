@@ -10,8 +10,12 @@
    * Construit des routes
    * Besoin: confiance; son père la considère comme une nuisance parce que sa mère est morte en couche, ce qui a précipité son père dans une dépression qui a détruit sa vie
    * Désir: prouver à son père qu'elle n'est pas une incapable
+   * Quelle est va vision de la guerre?
+   * Philosophie morale: éthique de la vertu (mais qui?)
 - Hector le raccourci: nain ingénieur, engin pour se mouvoir comme si les pieds amputés et faire semblant d’être humain
+   * Conseiller, ordonné, philosophie morale déontologique
 - Noxa, Elf précepteur affranchit (2 oreilles coupées) → qu’est-ce que vous voulez savoir? Cliffhanger
+   * Assassine, chaotique, utilitariste
 - Pretorius, l’incorruptible: chef de la garde la ville
 - Asmodius: ami de Galea, général rival
 - Cléa: manipule/séduit Asmodius, résultant dans la guerre civile.
@@ -29,6 +33,9 @@
 - Galea, adresse le scénat lors d’une guerre civile, promettant son aide en échange de la déclaration de la loi martialle et d’être nommé Impérator. Il demande propose que Prétorius devienne son garde, ainsi la garde Prétorienne aura le pouvoir de l’abandonner ou de le tuer s’il triche le peuple. Il dépouille au passage la ville de sa garde.
 - Galea voyage avec les nains sous la terre.
 - Galea échoue. Puis se remémore un passage du journal de son père qui la pousse à simplement ré-essayer de nouveau. Tout le monde échoue, ce qui compte c'est d'arriver plus loin demain.
+- Galea arrive sur un champ de bataille et réalise que la comminucation et donc la coordination est un vrai problème.
+- Galea transforme son cheval en licorne.
+- Galea trouve une cache d'arme?
 
 
 ## Lieux
