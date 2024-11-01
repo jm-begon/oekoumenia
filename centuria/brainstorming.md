@@ -20,6 +20,8 @@
 - Asmodius: ami de Delia, général rival
 - Cléa: manipule/séduit Asmodius, résultant dans la guerre civile.
 
+- 
+
 
 ## Scènes
 
@@ -37,12 +39,15 @@
 - Delia transforme son cheval en licorne.
 - Delia trouve une cache d'arme?
 - Un sénateur aux yeux bruns se réclame descendant d'Alfur, Noxa ricanne
+- Delia est attaquée et organise une défense.
+- Delia utilise ses connaissances d'architecture (cf. problème d'égouts) pour changer le champ de bataille
 
 
 ## Lieux
 
 ## Worldbuilding
-- Magie basée sur le chant, ou les arts --> En fait sur la fascination (high magic)
+- Magie basée sur le chant (Mélomancie, Harmonmancie), ou les arts (Arsimancie/Artemancie) --> En fait sur la fascination (high magic)
+  * Pathos (l'audience émue), Ethos (les chanteurs), Logos (celui qui focalise)
 
 ## Divers
 - Epigrache avec le journal du père
