@@ -7,6 +7,8 @@ Une jeune femme débrouillarde va devenir une impératrice réticente en unifian
 
 > Les mots les plus importants sont "débrouillarde" et "réticente". Le personnage ne veut pas prendre le pouvoir comme un tyran, il réalise simplement que c'est dans l'intérêt du peuple qu'il le fasse. "Dirigeant réticent, ardent tyran."
 
+Comment est-elle réticente, débrouillarde? 
+
 ### Ambiance
 
 Rome antique, intrigue politique.
