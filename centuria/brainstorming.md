@@ -41,6 +41,8 @@
 - Un sénateur aux yeux bruns se réclame descendant d'Alfur, Noxa ricanne
 - Delia est attaquée et organise une défense.
 - Delia utilise ses connaissances d'architecture (cf. problème d'égouts) pour changer le champ de bataille
+- Delia decrète que Noxa doit être exécutée et la place sous surveillance de gens dénoncés par Noxa. Le but est en fait d'observer comment Noxa va se sortir de la situation. Les traitres peuvent être sacrifiés.
+- Des garde affronte un nain en armure médiévale. Il les expédie mais se fait avoir par Noxa.
 
 
 ## Lieux
@@ -48,6 +50,7 @@
 ## Worldbuilding
 - Magie basée sur le chant (Mélomancie, Harmonmancie), ou les arts (Arsimancie/Artemancie) --> En fait sur la fascination (high magic)
   * Pathos (l'audience émue), Ethos (les chanteurs), Logos (celui qui focalise)
+- Et si chaque ville avait une approche différente de la magie basée sur l'art? 
 
 ## Divers
 - Epigrache avec le journal du père
