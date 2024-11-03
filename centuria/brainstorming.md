@@ -43,6 +43,7 @@
 - Delia utilise ses connaissances d'architecture (cf. problème d'égouts) pour changer le champ de bataille
 - Delia decrète que Noxa doit être exécutée et la place sous surveillance de gens dénoncés par Noxa. Le but est en fait d'observer comment Noxa va se sortir de la situation. Les traitres peuvent être sacrifiés.
 - Des garde affronte un nain en armure médiévale. Il les expédie mais se fait avoir par Noxa.
+- Récital magique avec des platforme volante.
 
 
 ## Lieux
