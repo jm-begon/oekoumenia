@@ -25,7 +25,8 @@
 
 ## Scènes
 
-- Delia parle lors d’un scénat où il est invité et se fait réprimander. Un des sénateurs vient le trouver ensuite pour lui faire remarquer qu’il ne maîtrise pas l’art de parler aux sénateurs.
+- Delia parle lors d’un sénat où il est invité et se fait réprimander. Un des sénateurs vient le trouver ensuite pour lui faire remarquer qu’il ne maîtrise pas l’art de parler aux sénateurs.
+- Delia assiste à un sénat où un sénateur utilise l'excuse de l'équité pour lancer des procédures enlisantes
 - Elf précepteur vient se présenter à Delia.
 - Delia se voit confier une tâche ingrate par le sénat, qu'il relève avec brio.
 - Delia se fait envoyer en guerre par le sénat
