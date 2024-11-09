@@ -4,14 +4,15 @@
 
 - Delia Octarina: l'héroinne réticente
    * Ne supporte pas l'inefficacité (perfectionniste compulsif); doute d'elle et qu'elle peut accomplir quoique ce soit
-   * Dilemme moral: il veut oeuvrer pour le bien de tous, mais ceci génère des conflits et la meilleure manière d’aborder un problème n’est jamais claire
+   * Dilemme moral: elle veut oeuvrer pour le bien de tous, mais ceci génère des conflits et la meilleure manière d’aborder un problème n’est jamais claire
    * Dilemme moral par rapport à l'utilisation de la magie?
    * Tellement perfectionniste, qu'il n'arrive même pas à râter une tâche
    * Construit des routes
    * Besoin: confiance; son père la considère comme une nuisance parce que sa mère est morte en couche, ce qui a précipité son père dans une dépression qui a détruit sa vie
    * Désir: prouver à son père qu'elle n'est pas une incapable
    * Quelle est va vision de la guerre?
-   * Philosophie morale: éthique de la vertu (mais qui?)
+   * Delia est une érudie. Elle veut observer le monde et apprendre, peut-être écrire un livre à propos de son Ere. Elle n'a pas confiance en elle, et déteste être au centre de l'attention, ce qui implique qu'elle ne veut pas pas prendre le lead. Elle a aussi beaucoup de mal à se taire quand elle voit du travail baclé ou quand des gens proposent des solutions stupides, ce qui la force souvent--malgré elle--a se mettre en avant; situation qu'elle questionne toujours. Son arc consiste à prendre confiance en elle et prendre le lead. On peut notamment la contraster avec d'autres leaders, par exemple un général qu'elle admire qui déborde de détermination, ou une Cléopatricienne sure d'elle.
+   * Philosophie morale: éthique de la vertu. Se réfère à Iptamenosadamas (alias Sadamas); selon la légende, un Alfurien révolutionnaire qui voulait remettre l'ancien empire dans le droit chemin.
 - Hector le raccourci: nain ingénieur, engin pour se mouvoir comme si les pieds amputés et faire semblant d’être humain
    * Conseiller, ordonné, philosophie morale déontologique
 - Noxa, Elf précepteur affranchit (2 oreilles coupées) → qu’est-ce que vous voulez savoir? Cliffhanger
@@ -45,6 +46,7 @@
 - Delia decrète que Noxa doit être exécutée et la place sous surveillance de gens dénoncés par Noxa. Le but est en fait d'observer comment Noxa va se sortir de la situation. Les traitres peuvent être sacrifiés.
 - Des garde affronte un nain en armure médiévale. Il les expédie mais se fait avoir par Noxa.
 - Récital magique avec des platforme volante.
+- Délia arrive sur un champ de bataille pour délivrer une lettre au général Asmodius. La lettre la désigne comme nouveau général, au dépit de tous.
 
 
 ## Lieux
